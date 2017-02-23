@@ -1,3 +1,3 @@
-var NGEnterpriseIntegrationServices = require('./NGEnterpriseIntegrationServices');
-var instance = new NGEnterpriseIntegrationServices();
-instance.StartServer();
+var EIS = require('./EIS');
+var instance = new EIS();
+instance.startServer();

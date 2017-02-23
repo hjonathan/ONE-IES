@@ -13,11 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "NGSharedKernel": "git+ssh://git@bitbucket.org:colosa/nextgen-shared-kernel.git#Development",
     "bluebird": "^2.9.14",
     "body-parser": "^1.12.4",
     "express": "^4.11.2",
-    "lodash": "^3.5.0",
+    "lodash": "^3.10.1",
     "multer": "^0.1.8",
     "node-crate": "^1.0.21",
     "supertest": "^1.0.1"
